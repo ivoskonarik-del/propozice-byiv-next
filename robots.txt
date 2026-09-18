@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /kosik/
+Disallow: /pokladna/
+Disallow: /objednavka/
+
+Sitemap: https://www.byiv.cz/sitemap.xml
